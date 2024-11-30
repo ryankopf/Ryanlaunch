@@ -63,6 +63,6 @@ WantedBy=multi-user.target
   end
 end
 
-if defined?(Rake)
-  Rake.application.rake_require("tasks/launch", [File.expand_path("../..", __FILE__)])
-end
+# if defined?(Rake)
+#   Rake.application.rake_require("tasks/launch", [File.expand_path("../..", __FILE__)])
+# end
