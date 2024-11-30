@@ -3,7 +3,7 @@
 require_relative "lib/Ryanlaunch/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "Ryanlaunch"
+  spec.name = "ryanlaunch"
   spec.version = Ryanlaunch::VERSION
   spec.authors = ["Ryan Kopf"]
   spec.email = ["github@ryankopf.com"]

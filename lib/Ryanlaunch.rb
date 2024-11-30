@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-require_relative "Ryanlaunch/version"
-require 'Ryanlaunch/railtie' if defined?(Rails)
+require_relative "ryanlaunch/version"
+require 'ryanlaunch/railtie' if defined?(Rails)
 
 module Ryanlaunch
   class Error < StandardError; end

@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in Ryanlaunch.gemspec
+# Specify your gem's dependencies in ryanlaunch.gemspec
 gemspec
 
 gem "rake", "~> 13.0"
