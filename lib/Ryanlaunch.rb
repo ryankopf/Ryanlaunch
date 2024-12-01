@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "ryanlaunch/version"
+#require_relative "ryanlaunch/version"
 require 'ryanlaunch/railtie' if defined?(Rails)
 
 module Ryanlaunch
